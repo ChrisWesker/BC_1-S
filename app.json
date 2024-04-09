@@ -1,0 +1,37 @@
+{
+  "id": "326336f9-d852-4fec-95ca-e4c0f216f12a",
+  "name": "APP1",
+  "publisher": "K&S",
+  "version": "23.24.0402.02",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "e178ce4b-ac3c-4ce3-98ae-6a93cb77d012",
+      "publisher": "Knowledge & Strategy Information Co., Ltd.",
+      "name": "Ksinform Advanced Finance",
+      "version": "23.4.2.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": ["NoImplicitWith"]
+}
