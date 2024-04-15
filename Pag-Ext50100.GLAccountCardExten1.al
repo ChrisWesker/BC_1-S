@@ -1,4 +1,4 @@
-pageextension 50100 SifiveGLAccountCardExten1 extends "G/L Account Card"
+pageextension 50100 GLAccountCardExten1 extends "G/L Account Card"
 {
     layout
     {
