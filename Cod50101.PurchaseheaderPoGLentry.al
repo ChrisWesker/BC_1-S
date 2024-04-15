@@ -1,4 +1,4 @@
-codeunit 50101 SiFivePurchaseheaderPoGLentry
+codeunit 50101 PurchaseheaderPoGLentry
 {
     //  <<----------------------------purchase invoice and reciept  紀錄有consolidatetion  currency -------------------------------------------------------------------------------------
 
